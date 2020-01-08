@@ -1,2 +1,2 @@
 # Mateo
-Entre para aprener a programar un poco 
+Entre para aprender a programar un poco 
